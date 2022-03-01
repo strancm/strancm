@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my work account created specifically for CMG. For my personal project, go to [https://github.com/santrancisco/santrancisco](https://github.com/santrancisco/santrancisco)
+This is my work account created specifically for CMG. For my personal project, go to [https://github.com/santrancisco](https://github.com/santrancisco)
 
 Since you are here, i made a quick & fun challenge/ctf:
 
